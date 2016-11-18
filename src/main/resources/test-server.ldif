@@ -122,3 +122,4 @@ objectclass: groupOfNames
 cn: submanagers
 ou: submanager
 uniqueMember: uid=ben,ou=people,dc=springframework,dc=org
+/
